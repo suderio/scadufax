@@ -1,5 +1,9 @@
 # Scadufax
 
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="Scadufax Logo">
+</p>
+
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/suderio/scadufax)
 ![GitHub license](https://img.shields.io/github/license/suderio/scadufax)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/suderio/scadufax)
