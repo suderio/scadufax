@@ -1,0 +1,4 @@
+[scadufax]
+config_dir = './testinit/config'
+local_dir = './testinit/local'
+fork = 'testbox'
